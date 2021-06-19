@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/../libraries/keyswitches.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/../libraries/TPD2E2U06DCKR/footprints.pretty)(options "")(descr ""))
+)

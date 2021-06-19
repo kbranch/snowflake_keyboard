@@ -1,0 +1,9 @@
+[submodule "qmk_snowflake"]
+	path = qmk_snowflake
+	url = https://github.com/kbranch/qmk_snowflake.git
+[submodule "pcb_files/libraries/MX_Alps_Hybrid"]
+	path = pcb_files/libraries/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "pcb_files/libraries/keyswitches.pretty"]
+	path = pcb_files/libraries/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/../libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name snowflake-right-rescue)(type Legacy)(uri ${KIPRJMOD}/snowflake-rescue.lib)(options "")(descr ""))
+  (lib (name TPD3E001DRLR)(type Legacy)(uri ${KIPRJMOD}/../libraries/TPD3E001DRLR/TPD3E001DRLR.lib)(options "")(descr ""))
+  (lib (name 2020-12-12_00-37-02)(type Legacy)(uri ${KIPRJMOD}/../libraries/TPD2E2U06DCKR/2020-12-12_00-37-02.lib)(options "")(descr ""))
+)
